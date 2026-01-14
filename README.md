@@ -32,14 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hitesh754&show_icons=true&theme=react" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh754&layout=compact&theme=react" height="180"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hitesh754&theme=react" height="200"/>
