@@ -19,11 +19,9 @@
 ## 🌐 Connect with Me  
 <p>
   <a href="https://www.linkedin.com/in/hitesh-choudhary-3133a1327" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> 
   </a>
-</p>
-<p>
-  <a href="https://www.instagram.com/Hitesh231466" target="_blank">
+   <a href="https://www.instagram.com/Hitesh231466" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 </p>
