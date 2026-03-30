@@ -22,6 +22,11 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
+<p>
+  <a href="https://www.instagram.com/Hitesh231466" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+</p>
 
 ---
 
