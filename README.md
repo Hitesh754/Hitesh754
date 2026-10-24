@@ -45,14 +45,6 @@ open to   internships · open-source collaboration
   </tr>
 </table>
 
-<sub>omarchy-caelestia is based on <a href="https://github.com/caelestia-dots">Caelestia Shell</a> by caelestia-dots; my part is the Omarchy integration layer.</sub>
-
-<img src="assets/divider.svg" alt="" width="100%">
-
-## ~/open-source
-
-Open PRs: [ToolJet #18365](https://github.com/ToolJet/ToolJet/pull/18365) · [3psLCCA-core-task #5](https://github.com/swas02/3psLCCA-core-task/pull/5)
-
 <img src="assets/divider.svg" alt="" width="100%">
 
 <p align="center">
