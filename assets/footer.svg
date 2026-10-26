@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="44" viewBox="0 0 1000 44" role="img" aria-label="learn, build, open source, repeat">
-  <rect width="1000" height="44" fill="#0b1220"/>
-  <line x1="10" y1="22" x2="270" y2="22" stroke="#3a4aa8" stroke-width="1.5" stroke-dasharray="6 6"/>
-  <line x1="730" y1="22" x2="990" y2="22" stroke="#3a4aa8" stroke-width="1.5" stroke-dasharray="6 6"/>
-  <text x="500" y="27" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#8a97b2">“ learn  <tspan fill="#34f5b0">·</tspan>  build  <tspan fill="#34f5b0">·</tspan>  open source  <tspan fill="#34f5b0">·</tspan>  repeat ”</text>
-</svg>
