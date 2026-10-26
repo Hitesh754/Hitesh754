@@ -1,60 +1,45 @@
-<!--
-  Terminal-style GitHub profile README.
-  Fork the layout: replace the text, the four project cells, and the username in the snake image URL.
-  Files: README.md · assets/banner.svg · assets/divider.svg · .github/workflows/snake.yml
--->
+<div align="center">
 
-<p align="center">
-  <img src="assets/banner.svg" alt="Terminal window: whoami — Hitesh Choudhary, software developer, systems tinkerer, AI/ML explorer" width="100%">
-</p>
+<img src="assets/banner.svg" alt="Terminal window: whoami. Hitesh Choudhary, software developer, systems tinkerer, AI/ML explorer" width="100%"/>
 
-```text
-role      software developer · systems tinkerer · AI/ML explorer
-runs on   Linux · Omarchy / Hyprland
-open to   internships · open-source collaboration
-```
-
-<img src="assets/divider.svg" alt="" width="100%">
-
-## ~/projects
+<img src="assets/divider-projects.svg" alt="~/projects" width="100%"/>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Hitesh754/omarchy-caelestia">omarchy-caelestia</a></b><br>
-      Caelestia desktop shell integrated into Omarchy, with safe install, update and rollback.<br>
-      <sub><code>Bash</code> · <code>Hyprland</code> · <code>Quickshell</code></sub>
+    <td width="50%" align="center">
+      <a href="https://github.com/Hitesh754/omarchy-caelestia"><img src="assets/card-omarchy.svg" alt="omarchy-caelestia" width="100%"/></a>
     </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Hitesh754/Playlistkit">PlaylistKit</a></b><br>
-      Extract playlists from Spotify, Apple Music, JioSaavn and YouTube, then export to CSV.<br>
-      <sub><code>React</code> · <code>FastAPI</code> · <code>Docker</code> · <a href="https://playlistkit-hqup.vercel.app">demo</a></sub>
+    <td width="50%" align="center">
+      <a href="https://github.com/Hitesh754/Playlistkit"><img src="assets/card-playlistkit.svg" alt="PlaylistKit" width="100%"/></a><br/>
+      <a href="https://playlistkit-hqup.vercel.app"><img src="assets/button-live-demo.svg" alt="Live Demo" height="34"/></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Hitesh754/Medisphere">MediSphere</a></b><br>
-      Prototype health app that scans prescriptions and lab reports with AI.<br>
-      <sub><code>React</code> · <code>TypeScript</code> · <code>Supabase</code></sub>
+    <td width="50%" align="center">
+      <a href="https://github.com/Hitesh754/Medisphere"><img src="assets/card-medisphere.svg" alt="MediSphere" width="100%"/></a>
     </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Hitesh754/Pothole-Vision-main">RoadSense AI</a></b><br>
-      Road-damage detection with automated grievance tickets (team prototype).<br>
-      <sub><code>YOLOv8</code> · <code>OpenCV</code> · <code>FastAPI</code></sub>
+    <td width="50%" align="center">
+      <a href="https://github.com/Hitesh754/Pothole-Vision-main"><img src="assets/card-roadsense.svg" alt="RoadSense AI" width="100%"/></a>
     </td>
   </tr>
 </table>
+
+<sub>omarchy-caelestia is based on <a href="https://github.com/caelestia-dots">Caelestia Shell</a> by caelestia-dots; my part is the Omarchy integration layer.</sub>
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## ~/open-source
+
+Open PRs: [ToolJet #18365](https://github.com/ToolJet/ToolJet/pull/18365) · [3psLCCA-core-task #5](https://github.com/swas02/3psLCCA-core-task/pull/5)
 
 <img src="assets/divider.svg" alt="" width="100%">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hitesh754/Hitesh754/output/snake.svg" alt="Snake game eating my GitHub contribution graph" width="100%">
 </p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/hitesh-choudhary-3133a1327">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28">
-  </a>
-  <a href="https://www.instagram.com/Hitesh231466">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="28" height="28">
-  </a>
+  <a href="https://github.com/Hitesh754">github</a> ·
+  <a href="https://www.linkedin.com/in/hitesh-choudhary-3133a1327">linkedin</a> ·
+  <a href="https://www.instagram.com/Hitesh231466">instagram</a>
 </p>
