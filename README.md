@@ -57,15 +57,15 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Hitesh754"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" alt="GitHub"/></a><br/>
-      <b>GitHub</b><br/><sub>@Hitesh754</sub>
+      <b>GitHub</b><br/>
     </td>
     <td align="center" width="33%">
       <a href="https://www.linkedin.com/in/hitesh-choudhary-3133a1327"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="44" alt="LinkedIn"/></a><br/>
-      <b>LinkedIn</b><br/><sub>@hitesh-choudhary-3133a1327</sub>
+      <b>LinkedIn</b><br/>
     </td>
     <td align="center" width="33%">
       <a href="https://www.instagram.com/Hitesh231466"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="44" alt="Instagram"/></a><br/>
-      <b>Instagram</b><br/><sub>@Hitesh231466</sub>
+      <b>Instagram</b><br/>
     </td>
   </tr>
 </table>
