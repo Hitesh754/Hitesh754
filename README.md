@@ -24,8 +24,6 @@
   </tr>
 </table>
 
-<sub>omarchy-caelestia is based on <a href="https://github.com/caelestia-dots">Caelestia Shell</a> by caelestia-dots; my part is the Omarchy integration layer.</sub>
-
 <img src="assets/divider.svg" alt="" width="100%">
 
 <p align="center">
