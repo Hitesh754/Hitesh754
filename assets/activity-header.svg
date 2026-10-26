@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="84" viewBox="0 0 1000 84" role="img" aria-label="Snake: my contribution graph, eaten by a snake">
+  <rect x="1" y="1" width="998" height="82" rx="12" fill="#0d1526" stroke="#1c2740" stroke-width="2"/>
+  <rect x="1" y="1" width="6" height="82" rx="3" fill="#34f5b0"/>
+  <text x="32" y="38" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="22" font-weight="700" fill="#34f5b0">$ ./snake</text>
+  <text x="32" y="64" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#8a97b2">watch my contribution graph get eaten, one commit at a time</text>
+  <rect x="800" y="26" width="170" height="32" rx="16" fill="#0b1220" stroke="#1c2740"/>
+  <circle cx="822" cy="42" r="5" fill="#34f5b0"/>
+  <text x="836" y="47" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#e6edf7">last 12 months</text>
+</svg>
