@@ -58,10 +58,6 @@
 </picture>
 <img src="assets/divider.svg" alt="" width="100%">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hitesh754/Hitesh754/output/snake.svg" alt="Snake game eating my GitHub contribution graph" width="100%">
-</p>
-
-<p align="center">
   <a href="https://github.com/Hitesh754">github</a> ·
   <a href="https://www.linkedin.com/in/hitesh-choudhary-3133a1327">linkedin</a> ·
   <a href="https://www.instagram.com/Hitesh231466">instagram</a>
