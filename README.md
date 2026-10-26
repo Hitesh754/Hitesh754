@@ -51,14 +51,9 @@ open to   internships · open-source collaboration
   <img src="https://raw.githubusercontent.com/Hitesh754/Hitesh754/output/snake.svg" alt="Snake game eating my GitHub contribution graph" width="100%">
 </p>
 <p align="center">
-  <a href="https://github.com/Hitesh754">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="28" height="28">
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hitesh-choudhary-3133a1327">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28">
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/Hitesh231466">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="28" height="28">
   </a>
