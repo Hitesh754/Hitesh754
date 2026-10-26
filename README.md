@@ -28,12 +28,6 @@
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## ~/open-source
-
-Open PRs: [ToolJet #18365](https://github.com/ToolJet/ToolJet/pull/18365) · [3psLCCA-core-task #5](https://github.com/swas02/3psLCCA-core-task/pull/5)
-
-<img src="assets/divider.svg" alt="" width="100%">
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hitesh754/Hitesh754/output/snake.svg" alt="Snake game eating my GitHub contribution graph" width="100%">
 </p>
