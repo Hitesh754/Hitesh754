@@ -56,10 +56,6 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/Hitesh754"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" alt="GitHub"/></a><br/>
-      <b>GitHub</b><br/>
-    </td>
-    <td align="center" width="33%">
       <a href="https://www.linkedin.com/in/hitesh-choudhary-3133a1327"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="44" alt="LinkedIn"/></a><br/>
       <b>LinkedIn</b><br/>
     </td>
